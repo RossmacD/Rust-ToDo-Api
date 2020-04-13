@@ -1,0 +1,13 @@
+{
+    "sqltools.connections": [
+        {
+            "database": "actix",
+            "dialect": "PostgreSQL",
+            "name": "actix_postgresql",
+            "password": "actix",
+            "port": 5432,
+            "server": "127.0.0.1",
+            "username": "actix"
+        }
+    ]
+}
